@@ -1,0 +1,4 @@
+pojemnosc dysku (C): 535GB
+pamiec RAM: 8GB
+rodzaj i szybkosc procesora: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80GHz
+system 64-bitowy
